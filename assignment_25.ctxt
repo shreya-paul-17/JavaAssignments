@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=assignment_25
+comment1.params=
+comment1.target=assignment_25()
+comment2.params=
+comment2.target=void\ privateMethod()
+comment3.params=
+comment3.target=void\ protectedMethod()
+comment4.params=
+comment4.target=void\ publicMethod()
+comment5.params=
+comment5.target=void\ defaultMethod()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

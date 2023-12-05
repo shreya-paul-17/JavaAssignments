@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=assignment_27
+comment1.params=var
+comment1.target=assignment_27(int)
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

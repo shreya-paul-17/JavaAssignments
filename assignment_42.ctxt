@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=assignment_42
+comment1.params=start\ end
+comment1.target=MyRunnable(int,\ int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=int\ getSum()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
